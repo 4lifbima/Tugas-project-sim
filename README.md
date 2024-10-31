@@ -13,8 +13,8 @@ Sistem Informasi Akademik SMAN 6 Gorontalo Merupakan platform berbasis website y
 6. Nazly Siti Julaiha Napu (531423006)
 7. Indah Belastri Sibran (531423007)
 8. Dhimaz Pramudya Lc Lasabang (531423008)
-8. Alif Bima Pradana (531423009)
-
+9. Alif Bima Pradana (531423009)
+10. Suci Ramadani Timumun (531423010
 
 ## Contributor
  1. Alif Bima Pradana (Backend)
